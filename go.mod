@@ -1,4 +1,4 @@
-module github.com/boj/redistore
+module github.com/zhangzhaojian/redistore
 
 require (
 	github.com/gomodule/redigo v2.0.0+incompatible
